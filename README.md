@@ -164,4 +164,5 @@ This project demonstrates practical skills in:
 ## 👨‍💻 Author
 
 **Jay Salunke**
+LinkedIn: linkedin.com/in/jay-salunke-bba705320
 
